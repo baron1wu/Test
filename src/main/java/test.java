@@ -3,5 +3,6 @@ public class test {
         System.out.println("version1");
         System.out.println("wawa");
         System.out.println("lalla");
+        System.out.println("wawa");
     }
 }
