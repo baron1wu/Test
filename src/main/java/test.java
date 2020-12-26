@@ -3,5 +3,6 @@ public class test {
         System.out.println("version1");
         System.out.println("lalla");
         System.out.println("hot-fix");
+         System.out.println("hot-fixtest");
     }
 }
